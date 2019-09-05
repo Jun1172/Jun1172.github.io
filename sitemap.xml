@@ -3,11 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://Jun1172.github.io/posts/my-first-post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://Jun1172.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>http://Jun1172.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>http://Jun1172.github.io/posts/</loc>
   </url>
   
   <url>
